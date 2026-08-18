@@ -18,6 +18,7 @@ limitations under the License.
 
 #include <math.h>
 #include <stdint.h>
+#include <cstdint>
 #include <limits>
 #include <stdexcept>
 #include <algorithm>
